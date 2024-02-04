@@ -1,0 +1,1 @@
+print("Oleksandr Shevchenko, IPZ-8")
